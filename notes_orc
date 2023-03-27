@@ -1,0 +1,4 @@
+Workflow:
+PIL(Pillow): open an Image
+Opencv: Change an Image
+Tessereact(PyTessereact): OCR an Image
